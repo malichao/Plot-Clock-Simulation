@@ -1,0 +1,8 @@
+F:\Malcontent工作室\Plot Clock\Plot Clock Simulation\Plot Clock Simulation2\bin\Debug\Plot Clock Simulation.exe
+F:\Malcontent工作室\Plot Clock\Plot Clock Simulation\Plot Clock Simulation2\bin\Debug\Plot Clock Simulation.pdb
+F:\Malcontent工作室\Plot Clock\Plot Clock Simulation\Plot Clock Simulation2\obj\Debug\ResolveAssemblyReference.cache
+F:\Malcontent工作室\Plot Clock\Plot Clock Simulation\Plot Clock Simulation2\obj\Debug\Plot_Clock_Simulation.Form1.resources
+F:\Malcontent工作室\Plot Clock\Plot Clock Simulation\Plot Clock Simulation2\obj\Debug\Plot_Clock_Simulation.Properties.Resources.resources
+F:\Malcontent工作室\Plot Clock\Plot Clock Simulation\Plot Clock Simulation2\obj\Debug\Plot Clock Simulation2.csproj.GenerateResource.Cache
+F:\Malcontent工作室\Plot Clock\Plot Clock Simulation\Plot Clock Simulation2\obj\Debug\Plot Clock Simulation.exe
+F:\Malcontent工作室\Plot Clock\Plot Clock Simulation\Plot Clock Simulation2\obj\Debug\Plot Clock Simulation.pdb
